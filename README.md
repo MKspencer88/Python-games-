@@ -12,7 +12,7 @@ And oh the adventure it took me on. Now I am goind to take you on the same adven
 - Python
 - Linux
 
-# Methology
+# Methodology
 
 1. The first thing I did was set up my environment. I already had a VM with Linux set up on my main Windows machine. I downloaded Python onto my VM and also downloaded VS code.
 2. Once I was in my terminal I used the commmand mkdir python101
@@ -27,9 +27,9 @@ These were fun and simple and it helped me begin to understand how Python works.
 4. Then ChatGPT gave me a script that was about data types
 <img width="482" height="99" alt="Screenshot 2026-02-22 191025" src="https://github.com/user-attachments/assets/ed9ad919-d59c-4533-abfe-b65d9c3a1cb8" />
 
-I'll admit when I wrote this I tried to run it and nothing happened. Then when I asked ChatGPT to help me trouble shoot that is when I learned about **Data Types** and **Variables.** Data Types is the information that a variable can hold. If Python were a storage room full of boxes. Some hold words, or True/False flags, a list of things or labeled information. The types tells Python what is inside those boxes and how it should behave. A variable is a a name you give to a piece of information. It's like writing something on a sticky note then sticking it to your desk so you can look at it whenever you need to. So 
+I'll admit when I wrote this I tried to run it and nothing happened. Then when I asked ChatGPT to help me trouble shoot that is when I learned about **Data Types** and **Variables.** Data Types is the information that a variable can hold. If Python were a storage room full of boxes. Some hold words, or True/False flags, a list of things or labeled information. The types tells Python what is inside those boxes and how it should behave. A variable is a a name you give to a piece of information. It's like writing something on a sticky note then sticking it to your desk so you can look at it whenever you need to. 
 
-5. 
+5.  
 
  
 
