@@ -1,16 +1,16 @@
 # Python-games: The Day I Asked ChatGPT to Teach Me Python. 
 
-I started this project the day I finished a long morning of studying for my CompTIA Security+ exam. I had been using ChatGPT to help clarify concepts by asking it to "Explain this to me like I am a child." and it was working -- I was actually retaining the information. 
+I started this project the day I finished a long morning of studying for my CompTIA Security+ exam. I had been using ChatGPT to help clarify concepts by asking it to "Explain this to me like I am a child.", and it was working -- I was actually retaining the information. 
 
 Once I felt studied out, I typed in a new prompt:
 *"Can you teach me Python? I am a beginner, want to break into IT and have no money. Can you help me?"* 
 
-That single question kicked off an entire day of learning, troubleshooting and building small Python scripts. This project documents that journey.
+That single question kicked off an entire day of learning, troubleshooting, and building small Python scripts. This project documents that journey.
 
 # Tools Used
 - Python
 - Linux
-- SSH (There are some screenshots where I had to SSH into my VM from my main machine cause my VM UI wasn't cooperating.)
+- SSH (There are some screenshots where I had to SSH into my VM from my main machine because my VM UI wasn't cooperating.)
 
 # Skills Demonstrated
 - Writing beginner level Python scripts
@@ -41,15 +41,15 @@ ChatGPT gave me a script about data types. I tried to run it and... nothing happ
 - **Data Types:** The kind of information a variable can hold
 - **Variables:** Names you assign to pieces of information.
 
-I learned to think of variables as sticky notes on a desk, and data types at the kind of "box" the information lives in.
+I learned to think of variables as sticky notes on a desk, and data types as the kind of "box" the information lives in.
 
 # Learning f-strings: The Difference Between Concatenation and f-strings
 
-ChatGPT gave me a script that asked for name and age then it was going to print the name and age. The orginal script it gave me had concatenated strings:
+ChatGPT gave me a script that asked for name and age, then, it was going to print the name and age. The original script it gave me had concatenated strings:
 
 <img width="955" height="344" alt="Screenshot 2026-02-23 135317" src="https://github.com/user-attachments/assets/7df23d21-c28e-4573-8d57-c3fa55e9b58d" />
 
-The script didn't work I spent a solid twenty minutes trouble shoooting it until **FINALLY** chat told me about f-strings, formatted strings. I asked chat to explain to me what they are and why they are preferred:
+The script didn't work. I spent a solid twenty minutes troubleshooting it until **FINALLY** ChatGPT told me about f-strings, formatted strings. I asked chat to explain to me what they are and why they are preferred:
 - f-strings let you insert variables directly into strings
 - They're cleaner, shorter and more professional
 - They support expressions; you can do math inside of them
@@ -96,16 +96,16 @@ What I learned from this one:
 
 # Conditional Statements
 
- Before moving forward I needed more clairifaction of **if**, **else**, and **elif**
+ Before moving forward I needed more clarification of **if**, **else**, and **elif**
 - if:  Checks whether a condition is True. If it is, Python runs the code inside it
 - else: Is the back up plan so if the input for if is false then it will go on to run the next part of the script
-- elif: else if: It allows for additonal conditons. Use when you want multiple, mutually exclusive checks, but only one of them should run.
+- elif: else if: It allows for additional conditions. Use when you want multiple, mutually exclusive checks, but only one of them should run.
 
 <img width="479" height="189" alt="image" src="https://github.com/user-attachments/assets/893cb232-42a8-47d4-9f26-c595dc4454c1" />
 
 # Modulus Operator
 
-I asked chat to breakdown luckynumbers.py line by line and explain to me what everthing meant. While I was reading through the explaination the words **Modulus Operator (%)** stood out to me. Mostly because I had no clue what it was. i learned:
+I asked chat to breakdown luckynumbers.py line by line and explain to me what everything meant. While I was reading through the explanation the words **Modulus Operator (%)** stood out to me. Mostly because I had no clue what it was:
 - Modulus Operator represented in code as this **%** gives you the remainder of a division **remainder = a % b**.
 
 It can be used to do multiple things such as:
@@ -141,7 +141,7 @@ I practiced with exercises:
 
 # Mini-Project: FizzBuzz
 
-With modulus under my belt, I tackled the classic FizzBuzz challenege.
+With modulus under my belt, I tackled the classic FizzBuzz challenge.
 Rules:
 - Divisible by 3 --> print "Fizz"
 - Divisible by 5 --> print "Buzz"
@@ -152,7 +152,7 @@ Rules:
 
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/1007f2c4-0eae-402f-9269-dbd09cd77729" />
 
-ChatGPT later showed me a shorter, more advanced versions using f-strings.
+ChatGPT later showed me a shorter, more advanced version using f-strings.
 
 <img width="675" height="126" alt="image" src="https://github.com/user-attachments/assets/a5a5f9d1-2ede-4f63-a4ea-94d8667af2dd" />
 
@@ -192,6 +192,7 @@ This project was incredibly fun and extremely educational. In a single day, I we
 - Reading and understanding code
 
 It also reinforced my ability to document my work and use available tools to learn efficiently.
+
 
 
 
