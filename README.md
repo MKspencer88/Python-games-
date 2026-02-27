@@ -37,6 +37,7 @@ My first scripts were extremely simple -- printing text, doing basic math and ex
 <img width="995" height="169" alt="Screenshot 2026-02-22 180010" src="https://github.com/user-attachments/assets/5a4610b1-d740-4079-a4df-dd23a4b41125" />
 
 # Learning Data Types and Variables
+
 ChatGPT gave me a script about data types. I tried to run it and... nothing happened. That confusion led to a deeper explanation of:
 - **Data Types:** The kind of information a variable can hold
 - **Variables:** Names you assign to pieces of information.
